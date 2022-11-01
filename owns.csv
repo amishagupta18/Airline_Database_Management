@@ -1,0 +1,281 @@
+Flight ID,Airline
+508,Aegean Airlines
+15508,Olympic Air
+5869,Aeroflot
+14804,Rossiya Airlines
+316,Aurora Airlines
+10228,Pobeda
+15225,Aerolineas Argentinas
+12125,Austral Líneas Aéreas
+11889,Air Algerie
+13712,Air Arabia
+15453,Air Arabia Egypt
+4026,Air Arabia Jordan
+14656,Air Arabia Maroc
+539,Air Astana
+4205,Air Berlin
+1423,Air Canada
+6891,Air Canada Jetz
+222,Air Canada Rouge
+8674,Air Canada Regional
+7569,Air Macau (66.9%)
+9171,Air China
+12150,Shenzhen Airlines
+10010,Shandong Airlines (51%)
+10591,Air China Inner Mongolia
+2647,Kunming Airlines (80%)
+2865,Dalian Airlines (80%)
+5667,Air China Cargo
+7542,Air Europa
+12379,Air France
+8391,Transavia
+10954,KLM
+2162,Martinair
+15271,Transavia France
+15569,HOP!
+2564,KLM Cityhopper
+4151,Air India
+9995,Air India Regional
+8007,Air India Express
+15125,Air Malta
+14006,Air Mauritius
+11607,Air Namibia
+7831,Air New Zealand
+10592,Air New Zealand Link
+1285,Air Transat
+14072,Air Transport International
+12558,ABX Air
+8313,Air Wisconsin
+15021,AirAsia
+12454,AirAsia India
+2215,AirAsia Japan
+2640,Thai AirAsia
+1716,Indonesia AirAsia
+14889,Indonesia AirAsia X
+11434,Philippines AirAsia
+12904,AirAsia X
+2384,Thai AirAsia X
+7140,Alaska Airlines
+12387,Horizon Air
+12991,Alitalia
+10988,Alitalia Cityliner
+2524,Vanilla Air
+816,ANA Wings
+9785,All Nippon Airways
+6507,Allegiant Air
+4003,American Airlines
+1071,American Eagle
+7844,PSA Airlines
+5689,Piedmont Airlines
+12333,Envoy Air
+11702,Asiana Airlines
+10688,Air Busan
+5406,Air Seoul
+8091,Atlas Air
+892,AeroUnion
+13326,Avianca
+10137,Avianca Brazil
+14687,Avianca Ecuador
+13333,Avianca Peru
+2826,Avianca El Salvador/TACA Airlines
+910,Avianca Cargo Colombia
+15385,Avianca Guatemala
+11424,Avianca Honduras
+69,Azul
+8187,Air Hong Kong
+1262,Cathay Dragon
+216,Cathay Pacific
+2727,Cebu Pacific Air
+49,China Airlines
+14424,Tigerair Taiwan (80%)
+13889,Mandarin Airlines (93.99%)
+14984,China Eastern Airlines
+14658,China United Airlines
+4132,Shanghai Airlines
+3605,China Cargo Airlines
+168,China Southern Airlines
+12824,Copa Airlines
+10453,Copa Airlines Colombia
+8531,Delta Airlines
+1854,Endeavor Air
+1986,easyJet
+,easyJet - Switzerland
+,EgyptAir Cargo
+,EgyptAir
+,Air Cairo
+,EgyptAir Express
+,El Al
+,Sun d'Or
+,Up
+,Emirates
+,Ethiopian Airlines
+,Etihad Airways
+,EVA Air
+,Uni Air
+,FedEx Express
+,FedEx Feeder Fleet
+,Finnair
+,Nordic Regional Airlines
+,Flybe
+,FlyDubai
+,Frontier Airlines
+,Garuda Indonesia
+,Citilink
+,Gol Linhas Aéreas
+,Aeromexico Express
+,Aeromexico
+,Aeromexico Connect
+,Gulf Air
+,Lucky Air (86.68%)
+,Capital Airlines (70%)
+,Hainan Airlines
+,China Xinhua Airlines (100%)
+,Urumqi Airlines (70%)
+,Chang An Airlines (67.01%)
+,Hawaiian Airlines
+,British Airways
+,Iberia
+,Vueling
+,Aer Lingus
+,Iberia Express
+,Air Nostrum/Iberia Regional
+,Aer Lingus Regional
+,OpenSkies
+,BA CityFlyer
+,Iceland Air Group
+,IndiGo
+,Interjet
+,Japan Airlines
+,Japan Air Commuter (60% owned)
+,Japan Transocean Air (72.8%)
+,J-Air
+,Hokkaido Air System (57.3%)
+,Jazz Airlines
+,Jet Airways
+,Jet2
+,JetBlue Airways
+,Juneyao Airlines
+,Kenya Airways
+,Jambojet Limited
+,Korean Air
+,Jin Air
+,LATAM Airlines Brazil
+,LATAM Airlines Chile
+,LATAM Airlines Ecuador
+,LATAM Airlines Peru
+,LATAM Airlines Argentina
+,LATAM Cargo Brazil
+,LATAM Cargo Chile
+,Lion Air
+,Batik Air
+,Malindo Air
+,Wings Air
+,Thai Lion Air
+,LOT Polish Airlines
+,Lufthansa
+,Austrian Airlines
+,Brussels Airlines
+,Germanwings
+,Swiss International Airlines
+,Eurowings
+,Eurowings Europe
+,Edelweiss Air
+,Lufthansa CityLine
+,Air Dolomiti
+,Swiss Global Airlines
+,Lufthansa Cargo
+,Malaysia Airlines
+,Firefly
+,MASwings
+,Air Italy
+,Mesa Airlines
+,Monarch Airlines
+,Norwegian Air
+,Norwegian UK
+,Norwegian Air International
+,Norwegian Long Haul
+,Oman Air
+,Pakistan International Airlines
+,Pegasus Airlines
+,Philippine Airlines
+,PAL Express
+,Qantas Airways
+,Jetstar Airways
+,QantasLink
+,Australian Air Express
+,Jetconnect
+,Qantas Freight
+,Eastern Australia Airlines
+,Sunstate Airlines
+,Network Aviation
+,Qatar Airways
+,Qatar Airways Cargo
+,Qatar Executive
+,Al Maha Airways
+,Republic Airlines
+,Royal Air Maroc
+,Royal Air Maroc Express
+,Royal Jordanian
+,Royal Wings
+,RyanAir
+,S7 Airlines
+,Scandinavian Airlines
+,Air Greenland
+,Widerøe
+,Saudi Arabian Airlines
+,Singapore Airlines
+,SilkAir
+,Singapore Airlines Cargo
+,Skymark Airlines
+,Skywest
+,Skywest Airlines
+,South African Airways
+,Mango
+,Southwest Airlines
+,SpiceJet
+,Spirit Airlines
+,Spring Airlines
+,SunExpress
+,SunExpress Deutschland
+,TAP Portugal
+,TAP Express
+,Thai Airways
+,Thai Smile
+,Nok Air
+,Condor
+,Thomas Cook Airlines Belgium
+,Thomas Cook Airlines
+,Thomas Cook Airlines Scandinavia
+,Tianjin Airlines
+,GX Airlines
+,Trans States Airlines
+,Compass Airlines
+,GoJet Airlines
+,Thomson Airways
+,TUI Airlines Netherlands
+,TUI Airlines Belgium
+,TUIfly
+,TUIfly Nordic
+,Tunisair
+,Tunisair Express
+,Turkish Airlines
+,Anadolujet (100%)
+,United Airlines
+,UPS
+,Utair
+,UTair-Cargo
+,Vostok Aviation Company
+,Vietnam Airlines
+,Cambodia Angkor Air
+,Jetstar Pacific Airlines
+,Vietnam Air Service Company
+,Virgin America
+,Virgin Atlantic Airways
+,Virgin Australia Regional
+,Tigerair Australia
+,Virgin Australia
+,Virgin Samoa
+,Volaris
+,WestJet
+,WestJet Encore
+,Wizz Air
