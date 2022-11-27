@@ -39,8 +39,6 @@ GRANT ALL ON TABLE public.employees TO pg_write_all_data WITH GRANT OPTION;
 GRANT ALL ON TABLE public.employees TO postgres WITH GRANT OPTION;
 
 
-
-
 CREATE TABLE IF NOT EXISTS public.employees
 (
     name character varying(50) COLLATE pg_catalog."default",
@@ -198,5 +196,3 @@ ALTER TABLE IF EXISTS public.works_for
     OWNER to postgres;
 GRANT ALL ON TABLE public.works_for TO pg_write_all_data WITH GRANT OPTION;
 GRANT ALL ON TABLE public.works_for TO postgres WITH GRANT OPTION;
-
-
