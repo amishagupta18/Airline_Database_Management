@@ -114,7 +114,7 @@ try{
             </div>
             
             <div class="fieldbox">
-			<input id="seats" name="seats" type="seats">
+			<input id="seats" name="seats" type="text">
             <label>Seats</label>
             <span></span>
             </div>
