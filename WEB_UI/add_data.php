@@ -21,12 +21,19 @@
 <br>
 <br><br>
     <div id="about">
+       <h2>Adding Data</h2> 
     <a href="adding_data/flight.php">Add Flights</a><br>
     <a href="adding_data/company.php">Add Companies</a><br>
     <a href="adding_data/passenger.php">Add Passengers</a><br>
     <a href="adding_data/employees.php">Add Employees</a><br>
     <a href="adding_data/model.php">Add Airplane Models</a><br>
 
+    <h2>Adding Relationships</h2>
+    <a href="adding_relationship/flying_in.php">Flying In</a><br>
+    <a href="adding_relationship/flying_on.php">Flying On</a><br>
+    <a href="adding_relationship/owns.php">Owns</a><br>
+    <a href="adding_relationship/working_on.php">Working On</a><br>
+    <a href="adding_relationship/works_for.php">Works For</a><br>
     </div>
 
 </body>
