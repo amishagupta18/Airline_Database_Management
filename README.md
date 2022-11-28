@@ -11,8 +11,12 @@ With this research project, we hope to enable the airports to better manage thei
 
 ![ER Diagram](Images/image.png)
 
+## Steps to Install and Run the Project
 
-## Implemantation
+1. Download SQL code, and csv table files from main branch and create database in postgreSQL.
+2. Create a database in pgAdmin, right click the database and select "Query Tool" to query the database.
+
+## Implementation
 
 We processed data sets from [Kaggle.com](https://www.kaggle.com/), as well as other sources, using Python and imported our data into PGAdmin to build our database. Our build commands can be found in the [create_statements.sql](https://github.com/amishagupta18/Airline_Database_Management/blob/0197a6e94d04f0f4a677464d29f8eb3f6f218afb/Code/create_statements.sql) file under the **Code** directory in our repo and all the datsets that Kaggle would allow us to upload can be found in the **Data** directory. If you wish to review the python code we used to clean and genernate our data, it can be found in the [project_tables.ipynb](https://github.com/amishagupta18/Airline_Database_Management/blob/0197a6e94d04f0f4a677464d29f8eb3f6f218afb/Code/project_tables.ipynb) file under the **Code** directory in the repo. 
 
