@@ -95,7 +95,7 @@ try{
             </div>
             
             <div class="fieldbox">
-			<input id="flight_id" name="flight_id" type="text">
+			<input id="airline" name="airline" type="text">
             <label>Airline</label>
             <span></span>
             </div>
