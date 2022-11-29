@@ -20,15 +20,16 @@ Requirements:
 
 - make sure your system has a version of python >= 3.6 installed.
 
-```
 Install JAX and python dependencies by running the following commands:
 
 - if using GPU 
+```
 pip install -r vit_jax/requirements.txt
+```
 
 -if using TPU
+```
 pip install -r vit_jax/requirements-tpu.txt
-
 ```
 
 Installing postgres on your system:
