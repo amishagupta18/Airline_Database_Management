@@ -16,6 +16,15 @@ With this research project, we hope to enable the airports to better manage thei
 1. Download SQL code, and csv table files from main branch and create database in postgreSQL.
 2. Create a database in pgAdmin, right click the database and select "Query Tool" to query the database.
 
+## Steps to Upload the tables to your pgAdmin
+
+First, start by downloading the AirlineDatabase.tar file from the main branch to your local computer and the in your pgAdmin:
+1. Right click on your server, from the dropdown menu select Create and then database.
+2. After putting in the desired name of your database and saving it, right click on that database and select Restore, and upload this downloaded tar file** and under file type: select Tar and press save.
+3. In order to check whether the tar was uploaded to your database, under your database, go to Schemas>Public>Tables and the tables should show a 10 in brackets right next to it.
+
+**Make sure when trying to find the downloaded tar file from your File Explorer, the file type is changed to All Files. PgAdmin automatically assumes you are searching for a custom file**
+
 ## Implementation
 
 We processed data sets from [Kaggle.com](https://www.kaggle.com/), as well as other sources, using Python and imported our data into PGAdmin to build our database. Our build commands can be found in the [create_statements.sql](https://github.com/amishagupta18/Airline_Database_Management/blob/0197a6e94d04f0f4a677464d29f8eb3f6f218afb/Code/create_statements.sql) file under the **Code** directory in our repo and all the datsets that Kaggle would allow us to upload can be found in the **Data** directory. If you wish to review the python code we used to clean and genernate our data, it can be found in the [project_tables.ipynb](https://github.com/amishagupta18/Airline_Database_Management/blob/0197a6e94d04f0f4a677464d29f8eb3f6f218afb/Code/project_tables.ipynb) file under the **Code** directory in the repo. 
