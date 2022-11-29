@@ -27,7 +27,7 @@ Install JAX and python dependencies by running the following commands:
 pip install -r vit_jax/requirements.txt
 ```
 
--if using TPU
+- if using TPU
 ```
 pip install -r vit_jax/requirements-tpu.txt
 ```
