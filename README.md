@@ -101,7 +101,7 @@ Output:
 
 Once we were reasonably sure that our database could return useable results, we made some additional stylistic changes to increase it's ease of use, such as insuring that matching cases were use for columns, and that imported headers were deleted where necessary.
 
-##Web UI Installation
+## Web UI Installation
 1. Apache, PHP, and PostgreSQL server will need to be installed and running (MAPP for mac :) , WAPP for Windows, LAPP for Linux) to provide the connections between web, PHP, and PostgreSQL database (I used MaPP-Stack from Bitnami).
 2. Download WEB_UI folder from main branch, and copy files into your Apache htdocs folder in your server. If you want to hold multiple projects on the server, there is another way of saving the project in your computer, which can be found in the respective server documentation, but for the sake of this individual project, putting it in htdocs is simple.
 3. All $db_connection variables will need to be reconfigured to your specification and postgres authentication, with the connection pointing towards the airport database locally hosted on your postgreSQL environment .
