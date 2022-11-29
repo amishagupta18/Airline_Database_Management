@@ -40,9 +40,10 @@ Next Steps:
 
 First, start by downloading the AirlineDatabase.tar file from the main branch to your local computer and the in your pgAdmin:
 
-Right click on your server, from the dropdown menu select Create and then database.
-After putting in the desired name of your database and saving it, right click on that database and select Restore, and upload this downloaded tar file** and under file type: select Tar and press save.
-In order to check whether the tar was uploaded to your database, under your database, go to Schemas>Public>Tables and the tables should show a 10 in brackets right next to it.
+- Right click on your server, from the dropdown menu select Create and then database.
+- After putting in the desired name of your database and saving it, right click on that database and select Restore, and upload this downloaded tar file** and under file type: select Tar and press save.
+- In order to check whether the tar was uploaded to your database, under your database, go to Schemas>Public>Tables and the tables should show a 10 in brackets right next to it.
+
 ** Make sure when trying to find the downloaded tar file from your File Explorer, the file type is changed to All Files. PgAdmin automatically assumes you are searching for a custom file **
 
 The database is now ready!
