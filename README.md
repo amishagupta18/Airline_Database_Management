@@ -11,19 +11,33 @@ With this research project, we hope to enable the airports to better manage thei
 
 ![ER Diagram](Images/image.png)
 
-## Steps to Install and Run the Project
+## Installation and Instructions
 
 1. Download SQL code, and csv table files from main branch and create database in postgreSQL.
 2. Create a database in pgAdmin, right click the database and select "Query Tool" to query the database.
 
-## Steps to Upload the tables to your pgAdmin
+Requirements: 
 
-First, start by downloading the AirlineDatabase.tar file from the main branch to your local computer and the in your pgAdmin:
-1. Right click on your server, from the dropdown menu select Create and then database.
-2. After putting in the desired name of your database and saving it, right click on that database and select Restore, and upload this downloaded tar file** and under file type: select Tar and press save.
-3. In order to check whether the tar was uploaded to your database, under your database, go to Schemas>Public>Tables and the tables should show a 10 in brackets right next to it.
+- make sure your system has a version of python >= 3.6 installed.
 
-** Make sure when trying to find the downloaded tar file from your File Explorer, the file type is changed to All Files. PgAdmin automatically assumes you are searching for a custom file **
+
+Installing postgres on your system:
+
+- visit the following link https://www.postgresql.org/download/ and select your operating system.
+- there are multiple options to install postgres, postgres.app being the simplest, go ahead and follow the instructions on the website to get postgres set up.
+- make sure to have the path configured, and once you've done that you will have a PostgreSQL server running.
+
+Installing pgAdmin4 on your system:
+
+- visit the following link https://www.pgadmin.org/download/ and select yout operating system.
+- go ahead and install the latest release of pgAdmin for your system.
+
+Next Steps: 
+
+- Make sure your PostgreSQL server is up and running on the desired port, then launch pgAdmin4 and set the desired passwords for encryption purposes.
+- Once you have pgAdmin4 opened, create a server, give it a name PostgreSQL (version), and then in connections tab link it with the 'localhost' in the host name option. 
+- Now you would have your local machine set up, next we will go about importing the files for the database.
+
 
 ## Implementation
 
