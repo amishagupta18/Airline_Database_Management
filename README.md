@@ -109,5 +109,5 @@ Once we were reasonably sure that our database could return useable results, we 
 ### Web UI Notes
 - All constraints are held and reflected in data entry. 
 - If a new record is entered with a primary key that already exists, data entry will fail.
-- If a relationship is added and either primary keys do not exsist in respective table, data entry will fail
+- If a relationship is added and either primary keys do not exist in respective table, data entry will fail
 - If a one - to - one relationship is added and either Primary Keys already hold a relationship to a different record, data entry will fail. 
