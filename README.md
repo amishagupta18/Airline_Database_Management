@@ -105,4 +105,9 @@ Once we were reasonably sure that our database could return useable results, we 
 1. Apache, PHP, and PostgreSQL server will need to be installed and running (MAPP for mac :) , WAPP for Windows, LAPP for Linux) to provide the connections between web, PHP, and PostgreSQL database (I used MaPP-Stack from Bitnami).
 2. Download WEB_UI folder from main branch, and copy files into your Apache htdocs folder in your server. If you want to hold multiple projects on the server, there is another way of saving the project in your computer, which can be found in the respective server documentation, but for the sake of this individual project, putting it in htdocs is simple.
 3. All $db_connection variables will need to be reconfigured to your specification and postgres authentication, with the connection pointing towards the airport database locally hosted on your postgreSQL environment .
-Open up "http://localhost:8080/index.html" in your web browser.
+4.Open up "http://localhost:8080/index.html" in your web browser.
+### Web UI Notes
+-All constraints are held and reflected in data entry. 
+-If a new record is entered with a primary key that already exists, data entry will fail.
+-If a relationship is added and either primary keys do not exsist in respective table, data entry will fail
+-If a one - to - one relationship is added and either Primary Keys already hold a relationship to a different record, data entry will fail. 
