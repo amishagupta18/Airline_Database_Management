@@ -20,6 +20,16 @@ Requirements:
 
 - make sure your system has a version of python >= 3.6 installed.
 
+```
+Install JAX and python dependencies by running the following commands:
+
+- if using GPU 
+pip install -r vit_jax/requirements.txt
+
+-if using TPU
+pip install -r vit_jax/requirements-tpu.txt
+
+```
 
 Installing postgres on your system:
 
@@ -38,7 +48,7 @@ Next Steps:
 - Once you have pgAdmin4 opened, create a server, give it a name PostgreSQL (version), and then in connections tab link it with the 'localhost' in the host name option. 
 - Now you would have your local machine set up, next we will go about importing the files for the database.
 
-First, start by downloading the AirlineDatabase.tar file from the main branch to your local computer and the in your pgAdmin:
+First, start by downloading the [AirlineDatabase.tar](https://github.com/amishagupta18/Airline_Database_Management) file from the main branch to your local computer and the in your pgAdmin:
 
 - Right click on your server, from the dropdown menu select Create and then database.
 - After putting in the desired name of your database and saving it, right click on that database and select Restore, and upload this downloaded tar file** and under file type: select Tar and press save.
