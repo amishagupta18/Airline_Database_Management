@@ -23,7 +23,7 @@ First, start by downloading the AirlineDatabase.tar file from the main branch to
 2. After putting in the desired name of your database and saving it, right click on that database and select Restore, and upload this downloaded tar file** and under file type: select Tar and press save.
 3. In order to check whether the tar was uploaded to your database, under your database, go to Schemas>Public>Tables and the tables should show a 10 in brackets right next to it.
 
-**Make sure when trying to find the downloaded tar file from your File Explorer, the file type is changed to All Files. PgAdmin automatically assumes you are searching for a custom file**
+** Make sure when trying to find the downloaded tar file from your File Explorer, the file type is changed to All Files. PgAdmin automatically assumes you are searching for a custom file **
 
 ## Implementation
 
