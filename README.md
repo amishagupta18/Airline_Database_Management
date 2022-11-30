@@ -13,9 +13,6 @@ With this research project, we hope to enable the airports to better manage thei
 
 ## Installation and Instructions
 
-1. Download SQL code, and csv table files from main branch and create database in postgreSQL.
-2. Create a database in pgAdmin, right click the database and select "Query Tool" to query the database.
-
 Requirements: 
 
 - make sure your system has a version of python >= 3.6 installed.
@@ -34,14 +31,14 @@ pip install -r vit_jax/requirements-tpu.txt
 
 Installing postgres on your system:
 
-- visit the following link https://www.postgresql.org/download/ and select your operating system.
-- there are multiple options to install postgres, postgres.app being the simplest, go ahead and follow the instructions on the website to get postgres set up.
-- make sure to have the path configured, and once you've done that you will have a PostgreSQL server running.
+- Visit the following link https://www.postgresql.org/download/ and select your operating system.
+- There are multiple options to install postgres, postgres.app being the simplest. Ffollow the instructions on the website to get postgres set up.
+- Make sure to have the path configured, and once you've done that you will have a PostgreSQL server running.
 
 Installing pgAdmin4 on your system:
 
-- visit the following link https://www.pgadmin.org/download/ and select yout operating system.
-- go ahead and install the latest release of pgAdmin for your system.
+- Visit the following link https://www.pgadmin.org/download/ and select yout operating system.
+- Install the latest release of pgAdmin for your system.
 
 Next Steps: 
 
@@ -49,7 +46,7 @@ Next Steps:
 - Once you have pgAdmin4 opened, create a server, give it a name PostgreSQL (version), and then in connections tab link it with the 'localhost' in the host name option. 
 - Now you would have your local machine set up, next we will go about importing the files for the database.
 
-First, start by downloading the [AirlineDatabase.tar](https://github.com/amishagupta18/Airline_Database_Management) file from the main branch to your local computer and the in your pgAdmin:
+First, start by downloading the [AirlineDatabase.tar](https://github.com/amishagupta18/Airline_Database_Management) file from the main branch to your local computer and then retore to your pgAdmin:
 
 - Right click on your server, from the dropdown menu select Create and then database.
 - After putting in the desired name of your database and saving it, right click on that database and select Restore, and upload this downloaded tar file** and under file type: select Tar and press save.
@@ -59,6 +56,7 @@ First, start by downloading the [AirlineDatabase.tar](https://github.com/amishag
 
 The database is now ready!
 
+> *Alternatively, you can load the database using the SQL commands for table creation and data insertion, which can be found in the repo.*
 
 ## Implementation
 
